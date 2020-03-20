@@ -1,0 +1,29 @@
+
+body{
+    margin: 0;
+    padding: 0;
+    text-align: center;
+    background-image: url(../img/Leisure.png);
+    background-size: cover;
+    position: relative;
+    
+}
+.box{
+    float: right;
+    color: white;
+    height:39.8rem;
+    width: 44.5%;
+    background-color: rgb(50, 144, 175);
+    
+}
+h2{
+    font-size: 2.3rem;
+    position: relative;
+    margin-top: 13rem;
+}
+#btn{
+    background-color: rgb(13, 108, 139);
+    color: white;
+    font-size: 1.5rem;
+    width: 7rem;
+}
